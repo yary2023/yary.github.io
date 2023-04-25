@@ -1,0 +1,77 @@
+.principal{
+    width:1000px;
+    height: 1100px;
+    margin: auto;
+    background: rgb(87, 248, 127);
+    }
+    header{
+    width:1000px;
+    height: 90px; 
+    background-color: rgb(182, 227, 255);
+    }
+    nav{
+    width:1000px;
+    height: 70px;
+    background-color: rgb(201, 207, 241);
+    text-align: center;
+    }
+    aside{
+    width:450px;
+    height: 900px;
+    background-color:  rgb(255, 199, 199);
+    float: left;
+    }
+    section{
+    width:550px;
+    height: 900px;
+    background-color: rgb(255, 199, 199);
+    float: right;
+    }
+    footer{
+    width:1000px;
+    height: 70px;
+    background: rgb(166, 255, 188);
+    text-align: center;
+    }
+    .pe{
+        width: 200px;
+        height: 300px;
+        padding: 0px 0px 0px 20px;
+    }
+    .pim{
+        padding: px 0px 0px 0px;
+        text-align: justify;
+        font-size: 20px;
+        
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
+    }
+    p{
+        text-align: justify;
+        padding: 10px;
+        font-size: 20px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        li{
+            display: inline-block;
+            padding: 15px;
+            font-size: 25px;
+            text-align: center;
+            margin: auto;
+        }
+        a{
+            text-decoration: none;
+        }
+        h2{
+            font-family:aldhabi;
+            text-align: justify;
+            font-size: 30px;
+            margin: auto;
+            padding: 10px 0px 0px 10px;
+        }
+        h1{
+            font-family:aldhabi;
+            text-align: center;
+            font-size: 50px;
+            padding: 10px;
+        }
